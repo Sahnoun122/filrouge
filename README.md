@@ -1,86 +1,66 @@
 
-Plan de Marketing Digital
 
-Déterminer la Stratégie et les Tactiques
-Analyse du marché et des concurrents : Identifier les tendances du marché et analyser les stratégies de vos concurrents.
+Gestion des personnes :
 
-Définir les objectifs SMART : Spécifiques, Mesurables, Atteignables, Réalistes, et Limitées dans le Temps.
+Enregistrement des candidats : Création de profils avec des informations personnelles, date d'inscription, type de permis souhaité, etc.
 
-Choisir les canaux de marketing : Décider des plateformes (SEO, SEM, médias sociaux, e-mail, etc.).
+Gestion des moniteurs : Ajout des moniteurs avec leurs qualifications, horaires de travail et disponibilité.
 
-2. Déterminer le Buyer Persona
-Recherche de marché : Collecter des données démographiques, comportementales et psychographiques.
+Suivi des progrès des candidats : Historique des cours suivis, performances aux examens théoriques et pratiques.
 
-Création de profils de personas : Définir les caractéristiques, motivations et besoins de vos clients idéaux.
+Gestion des véhicules :
 
-3. Pré-étape
-Choisissez un marché cible
-Segmentation du marché : Identifier des segments de marché basés sur des critères pertinents (âge, lieu, intérêts, etc.).
+Ajout et suppression de véhicules : Enregistrement des détails des véhicules (modèle, plaque d'immatriculation, date d'achat, état, etc.).
 
-Positionnement : Déterminer comment se différencier sur le marché.
+Maintenance : Suivi des réparations, entretiens réguliers, et disponibilité des véhicules pour les cours.
 
-Créez des messages
-Développement de contenu : Créer des messages et contenus adaptés aux personas identifiés.
+Attribution des véhicules : Assignation des véhicules aux moniteurs en fonction de leur disponibilité et des besoins des candidats.
 
-Plan de contenu : Planifier la diffusion des contenus sur les différents canaux.
+Gestion des examens :
 
-Atteignez vos clients potentiels
-Campagnes publicitaires : Mettre en place des campagnes payantes et organiques pour toucher vos cibles.
+Planification des examens théoriques et pratiques : Organisation des sessions d'examens, notification des candidats et des moniteurs.
 
-Optimisation SEO/SEA : Optimiser votre présence sur les moteurs de recherche.
 
-4. Étape pendant
-Attraper les clients attirés
-Engagement sur les réseaux sociaux : Interagir avec les utilisateurs pour susciter l'intérêt.
+Suivi des résultats : Enregistrement des résultats des examens et information des candidats sur leurs performances.
 
-Lead Magnets : Offrir des ressources gratuites en échange d'informations de contact.
+Gestion des séances :
 
-Développer une clientèle attirée
-Email marketing : Envoyer des newsletters et campagnes d'emailing personnalisées.
+Planification des leçons de conduite : Création et gestion d'un emploi du temps pour les leçons de conduite, notification des moniteurs et des candidats.
 
-Programmes de fidélisation : Mettre en place des programmes pour fidéliser les clients existants.
+Suivi des séances : Enregistrement de la présence, performance des candidats pendant les leçons, feedback des moniteurs.
 
-Conversion des ventes
-Optimisation de la conversion : Améliorer l'UX/UI de votre site pour augmenter les taux de conversion.
+Gestion des résultats d'examen :
 
-Call-to-actions : Utiliser des appels à l'action efficaces sur vos canaux de marketing.
+Archivage des résultats : Sauvegarde des résultats des examens théoriques et pratiques pour consultation ultérieure.
 
-5. Post-étape
-Offrir une expérience globale
-Support client : Assurer un support client de qualité.
+Analyse des performances : Rapports et statistiques sur les taux de réussite, identification des domaines nécessitant des améliorations.
 
-Expérience utilisateur : Améliorer continuellement l'expérience utilisateur sur tous les points de contact.
+Formation flexible et personnalisée :
 
-Augmentez la valeur à via du client
-Upselling et cross-selling : Proposer des produits/services complémentaires aux clients existants.
+Modules de formation en ligne : Accès à des cours théoriques et des quizz interactifs pour renforcer les connaissances des candidats.
 
-Programmes de fidélité : Récompenser la fidélité des clients avec des avantages exclusifs.
+Adaptation de la formation : Personnalisation des modules de formation en fonction des progrès et des besoins spécifiques des candidats.
 
-Coordonner et motiver les recommandations
-Programmes de parrainage : Encourager les clients satisfaits à recommander vos produits/services.
+Interface administrateur :
 
-Avis et témoignages : Collecter et promouvoir les avis positifs.
+Gestion des séries et des questionnaires : Création, lecture, mise à jour et suppression de séries de questions pour les examens théoriques.
 
-6. SWOT Analysis
-Strengths (Forces) : Identifier les points forts de votre entreprise.
+Outils de reporting : Génération de rapports sur les progrès des candidats, les performances des moniteurs, l'état des véhicules, etc.
 
-Weaknesses (Faiblesses) : Identifier les points faibles à améliorer.
+Authentification et gestion des utilisateurs :
 
-Opportunities (Opportunités) : Repérer les opportunités de croissance.
+Contrôle d'accès : Systèmes d'authentification pour les utilisateurs (candidats, moniteurs, administrateurs) avec différents niveaux de privilèges.
 
-Threats (Menaces) : Identifier les menaces externes potentielles.
+Gestion des profils : Modification des informations personnelles, réinitialisation des mots de passe, gestion des rôles.
 
-7. PEST Analysis
-Political (Politique) : Examiner les influences politiques sur votre entreprise.
+Gestion des paiements :
 
-Economic (Économique) : Étudier les facteurs économiques affectant votre marché.
+Suivi des paiements : Enregistrement des paiements effectués par les candidats pour les cours, examens, et autres services.
 
-Social (Social) : Comprendre les tendances sociales et démographiques.
+Gestion des abonnements : Création et suivi des forfaits de cours, rappels de paiements, génération de reçus.
 
-Technological (Technologique) : Suivre les avancées technologiques pertinentes.
+Gestion des rendez-vous :
 
-8. Understand Brand
-Évaluation de la marque : Comprendre la perception actuelle de votre marque.
+Planification des rendez-vous : Organisation des rendez-vous pour les cours de conduite, les examens et les séances de formation.
 
-Développement de la marque : Définir ou redéfinir les valeurs, la mission et la vision de votre marque.
-
+Notification : Envoi de rappels et de notifications aux candidats et aux moniteurs pour les rendez-vous planifiés.
